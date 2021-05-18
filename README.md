@@ -1,15 +1,3 @@
-# Getting-Cleaning-Data-Week-4-Project
----
-title: "README.md"
-author: "PERON Erwan"
-date: "May 18, 2021"
-output: html_document
----
-
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
-
 ## R Markdown
 
 # Getting and Cleaning Data Project
